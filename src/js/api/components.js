@@ -1,0 +1,1 @@
+export var myButton = document.getElementById('myButton');
