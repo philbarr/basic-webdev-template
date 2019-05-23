@@ -1,0 +1,16 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic");
+
+@import "variables.scss";
+@import "mixins.scss";
+// Global CSS
+@import "global.scss";
+// Components
+@import "masthead.scss";
+@import "showcase.scss";
+@import "icons.scss";
+@import "testimonials.scss";
+@import "call-to-action.scss";
+@import "footer.scss";
+
