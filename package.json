@@ -23,7 +23,7 @@
     "bootstrap": "^4.3.1",
     "dotenv-webpack": "^1.7.0",
     "express": "^4.16.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-static": "^0.7.11",
     "popper.js": "^1.14.7",
     "webpack-icons-installer": "^2.0.0"
